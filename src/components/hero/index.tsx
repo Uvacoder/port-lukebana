@@ -1,4 +1,4 @@
-import imageCircle from '../../assets/userCircle.png'
+import imageCircle from '../../assets/usercircle.png'
 
 export const Hero =()=>{
     return (
